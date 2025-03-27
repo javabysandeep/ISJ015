@@ -8,8 +8,8 @@ public class Demo11 {
             sum = sum + i;
             //sum +=i;
         }
-        System.out.println("Loop sum = "+sum);
-        System.out.println("formula sum = "+100* 101/2);
+        System.out.println("Loop sum = " + sum);
+        System.out.println("formula sum = " + 100 * 101 / 2);
         // sum = n*(n+1)/2
     }
 }

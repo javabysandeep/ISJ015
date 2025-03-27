@@ -12,6 +12,8 @@ public class Demo17PerfectNumber {
                 sumOfFactors = sumOfFactors + i;
             }
         }
-        System.out.println(number == sumOfFactors ? "Its perfect number" : "Its not perfect number");
+        System.out.println(number == sumOfFactors
+                ? "Its perfect number"
+                : "Its not perfect number");
     }
 }
