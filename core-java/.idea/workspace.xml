@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd1fb24c-255a-4d80-a622-9029e508c108" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_4_control_statements/jumpStatements/Demo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/looping/forLoops/Demo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/looping/forLoops/Demo11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/looping/forLoops/Demo17PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/looping/forLoops/Demo17PerfectNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/looping/patterns/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/looping/patterns/Demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2utfpIZFZsp4LRMOdruDXnyButm" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -49,7 +44,7 @@
     "Application.Demo14.executor": "Run",
     "Application.Demo15.executor": "Run",
     "Application.Demo16.executor": "Run",
-    "Application.Demo2.executor": "Run",
+    "Application.Demo2.executor": "Debug",
     "Application.Demo3.executor": "Run",
     "Application.Demo4.executor": "Run",
     "Application.Demo5.executor": "Run",
@@ -59,6 +54,7 @@
     "Application.Demo9.executor": "Run",
     "Application._4_control_statements.jumpStatements.Demo5.executor": "Run",
     "Application._4_control_statements.jumpStatements.Demo7.executor": "Run",
+    "Application._6_class_object.Demo1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -75,7 +71,7 @@
       <recent name="_4_control_statements.jumpStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo1">
+  <component name="RunManager" selected="Application._6_class_object.Demo1">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_5_accept_user_input.Demo1" />
       <module name="core-java" />
@@ -90,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.jumpStatements.Demo6" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_5_accept_user_input.Demo2" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.jumpStatements.*" />
+          <option name="PATTERN" value="_5_accept_user_input.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.jumpStatements.Demo8" />
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_5_accept_user_input.Demo3" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.jumpStatements.*" />
+          <option name="PATTERN" value="_5_accept_user_input.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_4_control_statements.jumpStatements.Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.jumpStatements.Demo5" />
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_5_accept_user_input.Demo4" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.jumpStatements.*" />
+          <option name="PATTERN" value="_5_accept_user_input.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_4_control_statements.jumpStatements.Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.jumpStatements.Demo7" />
+    <configuration name="_6_class_object.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_6_class_object.Demo1" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.jumpStatements.*" />
+          <option name="PATTERN" value="_6_class_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +139,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._4_control_statements.jumpStatements.Demo5" />
-      <item itemvalue="Application._4_control_statements.jumpStatements.Demo7" />
+      <item itemvalue="Application._6_class_object.Demo1" />
+      <item itemvalue="Application.Demo2" />
+      <item itemvalue="Application.Demo3" />
+      <item itemvalue="Application.Demo4" />
       <item itemvalue="Application.Demo1" />
-      <item itemvalue="Application.Demo6" />
-      <item itemvalue="Application.Demo8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._6_class_object.Demo1" />
+        <item itemvalue="Application.Demo4" />
+        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Demo8" />
-        <item itemvalue="Application._4_control_statements.jumpStatements.Demo7" />
-        <item itemvalue="Application.Demo6" />
-        <item itemvalue="Application._4_control_statements.jumpStatements.Demo5" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +171,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743072974387</updated>
-      <workItem from="1743072976945" duration="3728000" />
+      <workItem from="1743072976945" duration="4475000" />
+      <workItem from="1743136568005" duration="41000" />
+      <workItem from="1743158916133" duration="674000" />
+      <workItem from="1743484724388" duration="37000" />
+      <workItem from="1743594706884" duration="636000" />
     </task>
     <servers />
   </component>
