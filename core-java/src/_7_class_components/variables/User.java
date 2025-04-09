@@ -1,4 +1,4 @@
-package _7_class_components;
+package _7_class_components.variables;
 
 public class User {
     int id;
