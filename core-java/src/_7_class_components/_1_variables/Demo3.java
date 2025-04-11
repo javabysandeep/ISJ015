@@ -1,4 +1,4 @@
-package _7_class_components.variables;
+package _7_class_components._1_variables;
 
 public class Demo3 {
     public static void main(String[] args) {

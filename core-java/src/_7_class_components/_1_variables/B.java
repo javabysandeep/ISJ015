@@ -1,4 +1,4 @@
-package _7_class_components.variables;
+package _7_class_components._1_variables;
 
 public class B {
     C c = new C();

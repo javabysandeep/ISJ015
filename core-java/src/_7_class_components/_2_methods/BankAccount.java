@@ -1,4 +1,4 @@
-package _7_class_components.methods;
+package _7_class_components._2_methods;
 
 public class BankAccount {
     int accountNumber;

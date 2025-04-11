@@ -1,16 +1,18 @@
-package _7_class_components.variables;
+package _7_class_components._1_variables;
 
-public class Demo2 {
+public class Demo1 {
     public static void main(String[] args) {
+        //args - local non-primitive
+
+
+        //local --> temp : primitive variable
+        //local variables won't get default value
+        int temp = 10;
+        System.out.println("*************** local variables *****************");
+        System.out.println("local variable " + temp);
+
         //user1 : local -->non-primitive
         User user1 = new User();
-        user1.id = 101;
-        user1.name = "Vaibhav";
-        user1.email = "vaibhav@gmail.com";
-        user1.password = "12345";
-        user1.age = 19;
-        user1.role = "Job Seeker";
-
         System.out.println("************* instance variables : user 1 details *****************");
         System.out.println("user id : " + user1.id);
         System.out.println("user name : " + user1.name);
