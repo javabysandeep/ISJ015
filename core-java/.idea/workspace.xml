@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd1fb24c-255a-4d80-a622-9029e508c108" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/_3_constructor/Demo2This.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_3_constructor/Demo2This.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/_3_constructor/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_3_constructor/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/methods/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_2_methods/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/variables/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_1_variables/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/variables/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_1_variables/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/variables/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_1_variables/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/variables/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_1_variables/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/variables/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_1_variables/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/variables/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_1_variables/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/variables/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_1_variables/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/variables/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_1_variables/Demo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_class_components/variables/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_1_variables/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_7_class_components/_3_constructor/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_class_components/_3_constructor/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +42,7 @@
   "keyToString": {
     "Application.App.executor": "Run",
     "Application.BankAccount.executor": "Run",
-    "Application.Demo1.executor": "Run",
+    "Application.Demo1.executor": "Debug",
     "Application.Demo12.executor": "Run",
     "Application.Demo13.executor": "Run",
     "Application.Demo14.executor": "Run",
@@ -60,7 +50,7 @@
     "Application.Demo16.executor": "Run",
     "Application.Demo1ThisDemo.executor": "Debug",
     "Application.Demo2.executor": "Debug",
-    "Application.Demo2This.executor": "Debug",
+    "Application.Demo2This.executor": "Run",
     "Application.Demo3.executor": "Run",
     "Application.Demo4.executor": "Run",
     "Application.Demo5.executor": "Run",
@@ -68,6 +58,7 @@
     "Application.Demo7.executor": "Run",
     "Application.Demo8.executor": "Run",
     "Application.Demo9.executor": "Run",
+    "Application.P.executor": "Run",
     "Application._4_control_statements.jumpStatements.Demo5.executor": "Run",
     "Application._4_control_statements.jumpStatements.Demo7.executor": "Run",
     "Application._6_class_object.Demo1.executor": "Run",
@@ -83,6 +74,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -91,17 +85,18 @@
       <recent name="C:\Work\ISJ015\core-java\src\_7_class_components" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_7_class_components._3_constructor" />
       <recent name="_7_class_components" />
       <recent name="_4_control_statements.jumpStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo2This">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7_class_components._1_variables.App" />
+  <component name="RunManager" selected="Application.Demo1">
+    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_class_components._2_methods.BankAccount" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_7_class_components._1_variables.*" />
+          <option name="PATTERN" value="_7_class_components._2_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7_class_components._2_methods.BankAccount" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_class_components._4_blocks.Demo1" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_7_class_components._2_methods.*" />
+          <option name="PATTERN" value="_7_class_components._4_blocks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7_class_components._1_variables.Demo3" />
+    <configuration name="P" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_class_components._3_constructor.P" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_7_class_components._1_variables.*" />
+          <option name="PATTERN" value="_7_class_components._3_constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,18 +157,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.P" />
       <item itemvalue="Application.Demo1ThisDemo" />
       <item itemvalue="Application.Demo2This" />
-      <item itemvalue="Application.Demo3" />
       <item itemvalue="Application.BankAccount" />
-      <item itemvalue="Application.App" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.P" />
         <item itemvalue="Application.Demo2This" />
         <item itemvalue="Application.Demo1ThisDemo" />
         <item itemvalue="Application.BankAccount" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +202,9 @@
       <workItem from="1744172901861" duration="606000" />
       <workItem from="1744198607268" duration="493000" />
       <workItem from="1744260129385" duration="8000" />
-      <workItem from="1744368535478" duration="1617000" />
+      <workItem from="1744368535478" duration="4075000" />
+      <workItem from="1744691558950" duration="153000" />
+      <workItem from="1744713301376" duration="3868000" />
     </task>
     <servers />
   </component>
@@ -243,8 +241,33 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/_7_class_components/_3_constructor/Movie.java</url>
-          <line>15</line>
+          <line>17</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_class_components/_4_blocks/A.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_class_components/_4_blocks/A.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_class_components/_4_blocks/A.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_class_components/_4_blocks/Demo1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_class_components/_4_blocks/A.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
